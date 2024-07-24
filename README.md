@@ -62,6 +62,7 @@ npm install @teleporthq/teleport-component-generator-vue
 npm install @teleporthq/teleport-component-generator-angular
 ```
 or using yarn:
+
 ```bash
 yarn add @teleporthq/teleport-component-generator-react
 yarn add @teleporthq/teleport-component-generator-vue
